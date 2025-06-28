@@ -7,6 +7,12 @@ A modern, AI-powered educational platform that adapts to your learning style and
 ![Vite](https://img.shields.io/badge/Vite-5.4.2-purple?logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.1-38B2AC?logo=tailwind-css)
 
+## 🌐 Live Demo
+
+**🚀 Try EduMind AI Now:** [https://edu-mind-ai-gamma.vercel.app/](https://edu-mind-ai-gamma.vercel.app/)
+
+Experience the full platform with AI-powered tutoring, smart quizzes, and personalized learning analytics.
+
 ## ✨ Features
 
 ### 🤖 AI-Powered Learning
